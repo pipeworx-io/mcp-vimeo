@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-vimeo",
+  "version": "0.1.0",
+  "description": "Vimeo public video/user/channel/category lookups. Free personal token.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "vimeo"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-vimeo"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}

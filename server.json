@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/vimeo",
+  "title": "Vimeo",
+  "description": "Vimeo public video/user/channel/category lookups. Free personal token.",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/vimeo",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-vimeo",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/vimeo/mcp"
+    }
+  ]
+}
