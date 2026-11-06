@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-vimeo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Vimeo MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "vimeo",
     "gatewaySlug": "vimeo",
-    "sourceHash": "v1-2427ec44a2e80d911a9220c334a80e2aa405aeb17e40ddddec47d83578a2658c",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-c8de94db836b34378aefb2fa434df2abc87a75ce48d02b8709b2b8bd777737ae",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
